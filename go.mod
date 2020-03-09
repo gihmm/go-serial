@@ -1,4 +1,4 @@
-module github.com/gihmm/go-serial
+module github.com/gihmm/serial
 
 go 1.13
 
